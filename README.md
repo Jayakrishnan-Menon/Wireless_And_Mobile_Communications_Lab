@@ -1,7 +1,7 @@
 # Wireless_And_Mobile_Communications_Lab
 Includes Matlab outputs obtained during the lab course of Wireless and Mobile Communications in my 6th semester of B-Tech.
 
-Special Focus on the flashed code is prioritized on github. For further information regarding individual lab experiments, please go through the attached documentation in pdf format, where each task and the outputs have been documented thoroughly.
+Special Focus on the code is prioritized on github. For further information regarding individual lab experiments, please go through the attached documentation in pdf format, where each task and the outputs have been documented thoroughly.
 For Quick access the links to the documantation are provided below:
 
 <table>
